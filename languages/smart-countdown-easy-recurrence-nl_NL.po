@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Countdown FX Easy Recurring Events\n"
+"Report-Msgid-Bugs-To: admin <dijadigital@xs4all.nl>\n"
+"POT-Creation-Date: 2020-01-12 10:51+0100\n"
+"PO-Revision-Date: 2020-01-12 10:52+0100\n"
+"Last-Translator: admin <dijadigital@xs4all.nl>\n"
+"Language-Team: admin <dijadigital@xs4all.nl>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Target-Locale: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: smartcdeasyrecurrence.php:62
+msgid "Easy recurring"
+msgstr "Makkelijk herhalen"
+
+#: smartcdeasyrecurrence.php:88 smartcdeasyrecurrence.php:104
+msgid "Smart Countdown FX Easy Recurring Events Settings"
+msgstr ""
+"Smart Countdown FX Easy Recurring (Makkelijkherhalen) Gebeurtenissen "
+"Instellingen"
+
+#: smartcdeasyrecurrence.php:88
+msgid "Easy Recurring Events"
+msgstr "Easy Recurring Events (Makkelijk terugkerende gebeurtenissen)"
+
+#: smartcdeasyrecurrence.php:132
+msgid "Settings"
+msgstr "Instellingen"
+
+#: smartcdeasyrecurrence.php:164
+msgid "Merge configurations 1 & 2"
+msgstr "Samenvoegen configuraties 1 & 2"
+
+#: smartcdeasyrecurrence.php:165
+msgid "Merge configurations 3 & 4"
+msgstr "Samenvoegen configuraties 3 & 4"
+
+#: smartcdeasyrecurrence.php:166
+msgid "Merge all configurations"
+msgstr "Samenvoegen alle configuraties"
+
+#: smartcdeasyrecurrence.php:174 smartcdeasyrecurrence.php:197
+msgid "Untitled"
+msgstr "Naamloos"
+
+#: smartcdeasyrecurrence.php:253
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: smartcdeasyrecurrence.php:258
+msgid "Title"
+msgstr "Titel"
+
+#: smartcdeasyrecurrence.php:264
+msgid ""
+"This title will appear in available event import profiles list in Smart "
+"Countdown FX configuration."
+msgstr ""
+"Deze titel wordt weergegeven in de beschikbare gebeurtenis import profielen "
+"lijst in de Smart Countdown FX configuratie."
+
+#: smartcdeasyrecurrence.php:269
+msgid "Imported event title"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:275
+msgid ""
+"This text will be displayed in the title before counter. Leave this field "
+"empty to disable imported title. By default imported title is appended to "
+"event title set in Smart Countdown FX. You can use %imported% placeholder in "
+"Smart Countdown FX \"Title before...\" widget option or shortcode to insert "
+"imported event title into an arbitrary position, e.g. %imported% will start "
+"in:"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:280
+msgid "Recurrence pattern"
+msgstr "Herhalingspatroon"
+
+#: smartcdeasyrecurrence.php:285
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: smartcdeasyrecurrence.php:286
+msgid "Hourly"
+msgstr "Elke X uur "
+
+#: smartcdeasyrecurrence.php:287
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: smartcdeasyrecurrence.php:288
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: smartcdeasyrecurrence.php:289
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: smartcdeasyrecurrence.php:290
+msgid "Monthly by week day"
+msgstr "Maandelijks per weekdag"
+
+#: smartcdeasyrecurrence.php:291
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+#: smartcdeasyrecurrence.php:300
+msgid "Date"
+msgstr "Datum"
+
+#: smartcdeasyrecurrence.php:304
+msgid "Month"
+msgstr "Maand"
+
+#: smartcdeasyrecurrence.php:307
+msgid "January"
+msgstr "Januari"
+
+#: smartcdeasyrecurrence.php:308
+msgid "February"
+msgstr "Februari"
+
+#: smartcdeasyrecurrence.php:309
+msgid "March"
+msgstr "Maart"
+
+#: smartcdeasyrecurrence.php:310
+msgid "April"
+msgstr "April"
+
+#: smartcdeasyrecurrence.php:311
+msgid "May"
+msgstr "Mei"
+
+#: smartcdeasyrecurrence.php:312
+msgid "June"
+msgstr "Juni"
+
+#: smartcdeasyrecurrence.php:313
+msgid "July"
+msgstr "Juli"
+
+#: smartcdeasyrecurrence.php:314
+msgid "August"
+msgstr "Augustus"
+
+#: smartcdeasyrecurrence.php:315
+msgid "September"
+msgstr "September"
+
+#: smartcdeasyrecurrence.php:316
+msgid "October"
+msgstr "Oktober"
+
+#: smartcdeasyrecurrence.php:317
+msgid "November"
+msgstr "November"
+
+#: smartcdeasyrecurrence.php:318
+msgid "December"
+msgstr "December"
+
+#: smartcdeasyrecurrence.php:325
+msgid "Day"
+msgstr "Dag"
+
+#: smartcdeasyrecurrence.php:334
+msgid ""
+"You can safely select dates greater than 28 for monthly recurrence. If the "
+"date selected isn't valid for a given month, it will be replaced by the last "
+"day of this month. For example, if you select \"31\" the event will recur on "
+"the last day of each month."
+msgstr ""
+"U kunt veilig een datum groter dan 28 kiezen voor maandelijkse herhaling. "
+"Als de geselecteerde datum niet correct is voor de geselecteerde maand, "
+"wordt deze vervangen door de laatste dag van die maand.\n"
+"Als voorbeeld, als u \"31\" selecteert zal de gebeurtenis plaatsvinden op de "
+"laatste dag van iedere maand."
+
+#: smartcdeasyrecurrence.php:338
+msgid "Week days"
+msgstr "Weekdagen"
+
+#: smartcdeasyrecurrence.php:342 smartcdeasyrecurrence.php:371
+msgid "Sunday"
+msgstr "Zondag"
+
+#: smartcdeasyrecurrence.php:343 smartcdeasyrecurrence.php:372
+msgid "Monday"
+msgstr "Maandag"
+
+#: smartcdeasyrecurrence.php:344 smartcdeasyrecurrence.php:373
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: smartcdeasyrecurrence.php:345 smartcdeasyrecurrence.php:374
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: smartcdeasyrecurrence.php:346 smartcdeasyrecurrence.php:375
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: smartcdeasyrecurrence.php:347 smartcdeasyrecurrence.php:376
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: smartcdeasyrecurrence.php:348 smartcdeasyrecurrence.php:377
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: smartcdeasyrecurrence.php:351
+msgid ""
+"Select week days when event takes place. Selecting all will result in \"Daily"
+"\" recurrence. Selecting none will disable recurrence."
+msgstr ""
+"Selecteer de weekdagen als de gebeurtenis moet plaatsvinden. Alles "
+"selecteren resulteert in \"Dagelijkse\" herhaling. Niets selecteren zal de "
+"herhaling uitschakelen."
+
+#: smartcdeasyrecurrence.php:356
+msgid "Week and day"
+msgstr "Week en dag"
+
+#: smartcdeasyrecurrence.php:361
+msgid "1st"
+msgstr "1ste"
+
+#: smartcdeasyrecurrence.php:362
+msgid "2nd"
+msgstr "2de"
+
+#: smartcdeasyrecurrence.php:363
+msgid "3rd"
+msgstr "3de"
+
+#: smartcdeasyrecurrence.php:364
+msgid "4th"
+msgstr "4de"
+
+#: smartcdeasyrecurrence.php:365
+msgid "Last"
+msgstr "Laatste"
+
+#: smartcdeasyrecurrence.php:381
+msgid " every month"
+msgstr "iedere maand"
+
+#: smartcdeasyrecurrence.php:382
+msgid ""
+"Week days have 4 to 5 ocurrences in each month. Choose \"Last\" week to "
+"schedule event for the last week of all months."
+msgstr ""
+"Weekdagen hebben 4 tot 5 herhalingen in iedere maand. Kies \"Laatste\" week "
+"om een gebeurtenis in te stellen voor de laatste week van alle maanden."
+
+#: smartcdeasyrecurrence.php:387
+msgid "Time"
+msgstr "Tijd"
+
+#: smartcdeasyrecurrence.php:390
+msgid "Hours"
+msgstr "Uren"
+
+#: smartcdeasyrecurrence.php:397
+msgid "Minutes"
+msgstr "Minuten"
+
+#: smartcdeasyrecurrence.php:408
+msgid "Interval"
+msgstr "Onderbreking"
+
+#: smartcdeasyrecurrence.php:413
+msgid "10 minutes"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:414
+msgid "15 minutes"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:415
+msgid "20 minutes"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:416
+msgid "1/2 hour"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:417
+msgid "1 hour"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:418
+msgid "2 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:419
+msgid "3 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:420
+msgid "4 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:421
+msgid "6 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:422
+msgid "8 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:423
+msgid "12 hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:427
+msgid "Choose repeat interval in hours starting from the time selected."
+msgstr "Kies herhalings onderbreking in uren vanaf de geselecteerde tijd."
+
+#: smartcdeasyrecurrence.php:432
+msgid "Duration (hh:mm)"
+msgstr "Tijdduur (uu:mm)"
+
+#: smartcdeasyrecurrence.php:438
+msgid ""
+"Enter event duration in \"hours:minutes\" format, e.g. 2:30 for two hours "
+"and a half. Allowed range: 0:00 - 47:59."
+msgstr ""
+"Voer gebeurtenis looptijd in \"uren:minuten\" formaat, bijvoorbeeld 2:30 "
+"voor twee en half uur. Toegestane bereik: 0:00 - 23:59"
+
+#~ msgid "Merge configurations"
+#~ msgstr "Configuraties samenvoegen"
